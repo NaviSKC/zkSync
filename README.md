@@ -7,3 +7,5 @@ Check stats on wenser.xyz
 Create NFTs/ Mint NFTs
 
 Provide liquidity on syncswap
+
+Lend and borrow on zerolend
